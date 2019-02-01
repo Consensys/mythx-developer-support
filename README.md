@@ -1,2 +1,3 @@
-# mythril-api-support
-Support resources and bug reporting for Mythril Tool Developers
+# MythX Developer Support
+
+Support and bug reporting for MythX tool developers.
