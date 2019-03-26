@@ -8,5 +8,5 @@ You can also visit [#mythx-developers](https://discord.gg/dZTvEzA) on Discord to
 
 ## Resources
 
-- [MythX Developer Guide - Building Secruity Tools on MythX](https://docs.mythx.io/en/latest/main/building-security-tools-on-mythx.html)
+- [MythX Developer Guide - Building Security Tools on MythX](https://docs.mythx.io/en/latest/main/building-security-tools-on-mythx.html)
 - [MythX OpenAPI Specification](https://api.mythx.io/v1/openapi)
